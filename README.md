@@ -133,6 +133,28 @@
 
 # 실행화면
 
-![image02](https://github.com/bsw0215/chabak/assets/144658036/ec515d30-d623-40d7-8216-01af4a88d948)
+- 메인화면: 카카오맵에서 차박 장소들을 마커로 표시하고, 대한민국 캠핑 지도로 시도별로 구분하여 탐색 가능합니다. '자세히'를 클릭하면 해당 장소 페이지로 이동합니다.
+
+![0](https://github.com/bsw0215/chabak/assets/144658036/2c932342-98c3-4917-b83e-fedd3b86ad23)
+![1](https://github.com/bsw0215/chabak/assets/144658036/e6b7f64d-038b-461a-9c3f-782f1a038fca)
+
+- 게시판 목록: 상단 메뉴를 클릭하면 카테고리별 게시판 목록이 출력됩니다. 로그인 한 사람만 글쓰기를 할 수 있습니다. 페이징 처리를 하였습니다.
+
+![2](https://github.com/bsw0215/chabak/assets/144658036/e9b5ea11-73fc-434f-8212-edb4288cc183)
+![4](https://github.com/bsw0215/chabak/assets/144658036/e5516a95-8b18-4964-950a-f9498583e39c)
+
+- 게시글 출력: 제목, 번호, 작성일, 조회수, 내용, 댓글이 출력됩니다.
+![3](https://github.com/bsw0215/chabak/assets/144658036/3a464294-b636-45dc-b0e5-e29d3accded5)
+
+- 게시글 수정
+![5](https://github.com/bsw0215/chabak/assets/144658036/163eb91b-a3a8-4871-890c-c00e226fc6cc)
+
+- 장소 게시판: 평점과 후기를 입력할 수 있습니다. 그리고 좌측 상단에 평균 평점이 출력됩니다.
+![7](https://github.com/bsw0215/chabak/assets/144658036/70de930f-bcb6-4256-95fb-479d01ba7778)
+
+- 로그인 페이지: 로그인 및 회원가입을 할 수 있습니다.
+![8](https://github.com/bsw0215/chabak/assets/144658036/b98b857d-b9a3-4875-9f92-ccb8c65a18c3)
+
+
 
 
